@@ -1,3 +1,15 @@
+# Adapted to run rtl_tcp on boot
+## by joeladria
+
+
+
+
+
+
+
+=====
+
+
 # Run OpenWebRX on balena to remotely monitor local radio spectrum
 
 Combine a Raspberry Pi and an inexpensive SDR (Software-Defined Radio) dongle to create a remote monitoring device that you can place anywhere in the world (with internet access) to view the surrounding radio spectrum and stream audio from some of the detected signals. See the full [project tutorial](https://www.balena.io/blog/running-openwebrx-on-balena-to-remotely-monitor-local-radio-spectrum/) on our blog!
